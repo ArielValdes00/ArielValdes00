@@ -27,5 +27,5 @@ I’m a passionate self-taught software developer from Buenos Aires, Argentina. 
 - Email - ariel.jvaldes20@gmail.com
 
 ## 🌐 Portfolio
-https://portfolio-ochre-six-55.vercel.app/
+https://arielvaldes.vercel.app
 
