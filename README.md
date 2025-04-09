@@ -23,7 +23,6 @@ I’m a passionate self-taught software developer from Buenos Aires, Argentina. 
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?logo=github)
 
 ## 📫 Contact
-- LinkedIn - https://www.linkedin.com/in/arielvaldes/
 - Email - ariel.jvaldes20@gmail.com
 
 ## 🌐 Portfolio
